@@ -1,7 +1,8 @@
 # Multi Purpose Website
 A website with many functions built into it that will be available at the click of a button.
 
-## - [ ] Completed
+## Completion status
+- [ ] Completed
 
 # Tasks:
 
