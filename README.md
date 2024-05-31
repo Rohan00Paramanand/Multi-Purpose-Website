@@ -3,7 +3,7 @@ A website with many functions built into it that will be available at the click 
 
 # Tasks:
 
-- [ ] Begin designing
+- [x] Begin designing
 - [ ] Complete design
 - [ ] Add calculator
 - [ ] Add currency convertor
